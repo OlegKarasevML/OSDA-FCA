@@ -1,0 +1,2 @@
+# OSDA-FCA
+Lazy classifier
