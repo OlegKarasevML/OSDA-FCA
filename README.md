@@ -1,2 +1,2 @@
 # OSDA-FCA
-Lazy classifier
+Lazy classifier based on antitone Galua connections
